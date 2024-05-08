@@ -18,7 +18,6 @@
 
 ## Program :
 ### Client :
-
 ```py
 import socket
 import requests
